@@ -37,7 +37,7 @@ react-native run-android
 
 ## Authors
 
-* **Christophe Mutabazi** - *Full stack engineer* - [Portfolio site](http://orbit.surge.sh/)
+* **Christophe Mutabazi** - *Full stack engineer*
 
 ## License
 Copyright {2018}
